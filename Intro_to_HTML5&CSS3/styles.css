@@ -1,0 +1,58 @@
+body {
+    padding-top: 50px;
+    background-image: url(wallpaper_swordart_online.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer {
+    padding-bottom: 5px;
+    text-align: center;
+    margin: auto;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+#section {
+    margin: auto;
+    max-width: 400px;
+    background: rgba(255,255,255,0.6);
+    border-radius: 10px;
+    align-content: center;
+}
+
+.pub {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.post {
+    background-color: #ffffff;
+    border: 2px solid #575757;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+#post_content, #post-title {
+    margin: 10px;
+}
+
+#imagem_perfil {
+    width: 120px;
+    height: 120x;
+    border-radius: 50%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.perfil {
+    margin: 0;
+    text-align: center;
+}
+
+#nome_perfil {
+    margin-top: 10px;
+}
