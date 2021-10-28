@@ -1,0 +1,29 @@
+html, body {
+    width: auto;
+    height: auto;
+    background-color: rgb(217, 255, 255);
+}
+section {
+    width: 75%;
+    height: fit-content;
+    margin: auto;
+    text-align: justify;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 20px;
+    font-family: Arial;
+}
+header {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+td {
+    border: 1px solid black;
+    width: fit-content;
+}
+button {
+    width: fit-content;
+    height: fit-content;
+}
